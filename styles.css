@@ -1,0 +1,46 @@
+body {
+  background-color: white;
+  text-align: center;
+}
+#card {
+  
+  background: white;
+  display: flex;
+  margin: auto;
+  margin-top: 40px;
+  height: 400px;
+  width: 250px;
+  border-radius: 10px;
+  padding: 20px;
+  border: 1px solid black;
+  position: relative;
+
+}
+#numero {
+  font-size: 170px;
+  display: flex;
+  align-items: center;
+}
+
+#pinta {
+font-size: 90px;
+display: flex;
+align-items: flex-start;
+}
+
+#pinta1 {
+  font-size: 90px;
+  display: flex;
+  align-items: flex-start;
+  transform: rotate(180deg);
+
+}
+button {
+  display: flex;
+  background-color: green;
+  font-size: 20px;
+  margin: auto;
+  margin-top: 30px;
+  border-color: rgb(5, 5, 5);
+  padding: 5px;
+}
